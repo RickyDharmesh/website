@@ -669,10 +669,9 @@ about.html:
 
 ```
 # OUTPUT:
-![alt text](<../hotel/food/static/Screenshot 2025-10-05 171923.png>)
-![alt text](<../hotel/food/static/Screenshot 2025-10-05 171935.png>)
-![alt text](<../hotel/food/static/Screenshot 2025-10-05 172000.png>)
-![alt text](<../hotel/food/static/Screenshot 2025-10-05 172117.png>)
-
+![alt text](<Screenshot 2025-10-05 171923.png>)
+![alt text](<Screenshot 2025-10-05 171935.png>)
+![alt text](<Screenshot 2025-10-05 172000.png>)
+![alt text](<Screenshot 2025-10-05 172117.png>)
 # RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
