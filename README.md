@@ -89,6 +89,8 @@ restaurant.html:
 
 .navbar {
     padding: 14px;
+    border: 60%;
+    border-width: 60%;
     display: inline-block;
     background-color: rgba(103, 103, 104, 0.747);
     color: #ffff;
@@ -351,6 +353,8 @@ administration.html:
 
         .navbar {
             padding: 14px;
+            border: 60%;
+            border-width: 60%;
             display: inline-block;
             background-color: rgba(103, 103, 104, 0.747);
             color: #ffff;
@@ -497,6 +501,8 @@ contact.html:
 
         .navbar {
             padding: 14px;
+            border: 60%;
+            border-width: 60%;
             display: inline-block;
             background-color: rgba(103, 103, 104, 0.747);
             color: #ffff;
@@ -589,6 +595,8 @@ about.html:
 
         .navbar {
             padding: 14px;
+            border: 60%;
+            border-width: 60%;
             display: inline-block;
             background-color: rgba(103, 103, 104, 0.747);
             color: #ffff;
@@ -669,9 +677,13 @@ about.html:
 
 ```
 # OUTPUT:
-![alt text](<Screenshot 2025-10-05 171923.png>)
-![alt text](<Screenshot 2025-10-05 171935.png>)
-![alt text](<Screenshot 2025-10-05 172000.png>)
-![alt text](<Screenshot 2025-10-05 172117.png>)
+
+![alt text](<Screenshot 2025-10-07 105740.png>)
+![alt text](<Screenshot 2025-10-07 105751.png>)
+![alt text](<Screenshot 2025-10-07 105803.png>)
+![alt text](<Screenshot 2025-10-07 105514.png>)
+
+
+
 # RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
